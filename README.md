@@ -8,7 +8,8 @@
 * [Live Website](https://cbernadotte.github.io/Claudine-Portfolio/)
 
 # Local Host
-![](~Desktop/Rutgers/homework/Claudine-Portfolio/assets/Claudine_Web-Developer.webm)
+* ![img](./assets/images/Portfolio-pic1.png)
+* ![img](./assets/images/Portfolio-pic2.png)
 
 # Author
 * [Github](https://github.com/cbernadotte)
